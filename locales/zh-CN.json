@@ -15,7 +15,6 @@
       "replacement": "请求拉取"
     }
   ],
-
   "dict": {
     "__comments-1": "date",
     "jan": "1月",
@@ -41,7 +40,6 @@
     "november": "11月",
     "dec": "12月",
     "december": "12月",
-
     "inbox": "收件箱",
     "saved": "已保存",
     "done": "已办",
@@ -49,7 +47,6 @@
     "filters": "过滤",
     "dismiss": "关闭",
     "get started": "开始",
-    
     "__comments-2": "HomePage",
     "sign in": "登录",
     "sign up": "注册",
@@ -67,14 +64,12 @@
     "today": "今天",
     "this week": "本周",
     "this month": "本月",
-
     "__comments-3": "explore",
     "collections": "集合",
     "trending": "趋势",
     "events": "事件",
     "github sponsors": "GitHub赞助",
-
-    "__comments-4": "Bottom",  
+    "__comments-4": "Bottom",
     "terms": "服务条款",
     "contact github": "联系 GitHub",
     "privacy": "隐私",
@@ -83,8 +78,7 @@
     "shop": "商店",
     "status": "状态",
     "training": "培训",
-
-    "__comments-5": "Login & Register",  
+    "__comments-5": "Login & Register",
     "username": "用户名",
     "email": "电子邮箱",
     "password": "密码",
@@ -104,8 +98,7 @@
     "confirm password to continue": "确认密码以继续",
     "confirm password": "确认密码",
     "tip:": "提示:",
-
-    "__comments-6": "User home", 
+    "__comments-6": "User home",
     "signed in as": "登录身份为",
     "set status": "状态设置",
     "new repository": "新建仓库",
@@ -137,8 +130,7 @@
     "show more": "展示更多",
     "working with a team?": "与团队合作?",
     "github is built for collaboration. set up an organization to improve the way your team works together, and get access to more features.": "GitHub是为协作而创建的。 建立组织以改善团队合作的方式，并获得更多功能。",
-
-    "__comments-7": "Search", 
+    "__comments-7": "Search",
     "language:": " 编程语言:",
     "type:": "类型:",
     "all": "所有",
@@ -146,7 +138,6 @@
     "select language": "选择语言",
     "find a repository…": "搜索项目…",
     "search or jump to…": "搜索或跳转到…",
-
     "__comments-8": "User & Organization",
     "pinned": "置顶",
     "followers": "粉丝",
@@ -165,7 +156,6 @@
     "verified": "已认证",
     "report abuse": "举报滥用",
     "organizations": "组织",
-
     "__comments-9": "Repository",
     "star": "星标",
     "unstar": "取消星标",
@@ -201,7 +191,7 @@
     "create new file": "新建文件",
     "upload files": "上传文件",
     "readme": "自述文件",
-    "commits": "次提交",
+    "commits": "提交次数",
     "merge pull request": "合并拉取请求",
     "switch branches/tags": "切换分支/标签",
     "default": "默认",
@@ -228,13 +218,11 @@
     "open with github desktop": "用GitHub桌面客户端打开",
     "download zip": "下载Zip压缩包",
     "this repository": "该仓库",
-
     "__comments-compare": "Comparing changes",
     "comparing changes": "差异比对",
     "compare": "对比",
     "choose two branches to see what’s changed or to start a new pull request. if you need to, you can also": "选择两个分支以比较差异或启动新的拉取请求。如果需要，你也可以",
     "compare across forks": "跨复刻比较",
-
     "__comments-issue": "Repository Issue",
     "new issue": "新议题",
     "open all": "打开全部",
@@ -248,7 +236,6 @@
     "assignees": "受理人",
     "confirmed": "已确认",
     "we couldn’t find anything!": "这里空空如也！",
-
     "__comments-10": "Repository settings",
     "danger zone": "危险区",
     "change repository visibility": "更改仓库可见性",
@@ -273,7 +260,6 @@
     "invite a collaborator": "邀请协作者",
     "integrations": "集成",
     "installed github apps": "安装GitHub应用",
-
     "__comments-11": "Repository settings",
     "settings": "设置",
     "personal settings": "个人设置",
@@ -294,12 +280,10 @@
     "branch": "分支",
     "branches": "分支",
     "tags": "标签",
-
     "public profile": "公开个人资料",
     "name": "名字",
     "public email": "公开邮箱",
     "bio": "个人简介",
-
     "__comments-12": "Create a Repository",
     "a repository contains all project files, including the revision history. already have a project repository elsewhere?": "仓库包含项目中的所有文件，包括修订历史记录。在其他地方已有仓库？",
     "import a repository.": "导入仓库",
